@@ -23,4 +23,4 @@ Install BarbBlock from the [Chrome App Store](https://chrome.google.com/webstore
 
 ## Adding to the Blacklist
 
-Create an [issue](https://github.com/paulgb/BarbBlock/issues) with the domains and the label `blacklist`. In the issue description add a link to a DMCA takedown notice if available, or else a notice from your service provider that they have received a takedown request.
+Create an [issue](https://github.com/paulgb/BarbBlock/issues) with the domains and the label `blacklist`. In the issue description, add a link to a DMCA takedown notice if available, or else a notice from your service provider that they have received a takedown request.
