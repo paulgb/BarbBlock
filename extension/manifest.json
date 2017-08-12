@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "BarbBlock",
+  "description": "Blocks requests to sites which have used DMCA takedowns to force removal from other blacklists.",
+  "version": "1.0",
+  "icons": {
+    "16": "icon/icon16.png",
+    "32": "icon/icon32.png",
+    "48": "icon/icon48.png",
+    "128": "icon/icon128.png"
+  },
+  "background": {
+    "scripts": [
+      "barbblock.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ]
+}
