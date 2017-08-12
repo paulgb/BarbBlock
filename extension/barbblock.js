@@ -1,6 +1,6 @@
 
 var urls = [
-    // empty list initially; all additions should link to a GitHub issue.
+    '*://functionalclam.com/*' // Issue #1
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(
