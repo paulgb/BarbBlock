@@ -19,7 +19,7 @@ I intend to accomplish a few things with this project.
 
 ## Installation
 
-Install BarbBlock from the [Chrome App Store](#).
+Install BarbBlock from the [Chrome App Store](https://chrome.google.com/webstore/detail/barbblock/nfgbdnfloghjocgmnclgpjnhhghmjpma).
 
 ## Adding to the Blacklist
 
