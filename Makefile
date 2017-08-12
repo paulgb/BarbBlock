@@ -1,3 +1,3 @@
 
 package :
-	zip -r extension barbblock.zip
+	zip barbblock.zip -r extension
