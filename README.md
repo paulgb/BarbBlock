@@ -4,11 +4,11 @@
 
 **BarbBlock** is a content blocking extension for Google Chrome. It blocks requests to sites which have used DMCA takedowns to force removal from other blacklists. Such takedowns are categorically invalid, but they can be effective at intimidating small open-source projects into compliance.
 
-BarbBlock was created in response to a troubling instance where a company [used the DMCA takedown process](#) to force a domain blacklist to remove its domain. In reaction to this, some people added the domain to their personal blacklists, even those who weren't blocking it before the takedown. This phenomenon is called the [Streisand Effect](#), and it (indirectly) gives BarbBlock its name. In essence, this extension exists to automate the Streisand effect.
+BarbBlock was created in response to a troubling instance where a company [used the DMCA takedown process](https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3) to force a domain blacklist to remove its domain. In reaction to this, some people added the domain to their personal blacklists, even those who weren't blocking it before the takedown. This phenomenon is called the [Streisand Effect](https://en.wikipedia.org/wiki/Streisand_effect), and it (indirectly) gives BarbBlock its name. In essence, this extension exists to automate the Streisand effect.
 
 The initial release of BarbBlock blocks the domain in question, `functionalclam.com`. If DMCA takedowns continue to be misused for blacklist removals, the extension will be updated to cover other domains as well. Updates are automatic through the Chrome App Store.
 
-**As the maintainer of this extension, I pledge to dispute any takedown that comes to this repository.** This is not my first DMCA-takedown rodeo 😉. I also pledge to only add domains which have used legal threats (including the DMCA takedown process) for removal.
+**As the maintainer of this extension, I pledge to dispute any takedown that comes to this repository.** This is not my first DMCA-takedown rodeo 😉. I also pledge to only add domains which have attempted to remove themselves from other blacklists through legal threats, including (but not limited to) "Cease and Desist" letters and DMCA takedowns.
 
 ## Goals
 
@@ -23,4 +23,4 @@ Install BarbBlock from the [Chrome App Store](#).
 
 ## Adding to the Blacklist
 
-Create an [issue](#) with the domains, and a link to a DMCA takedown notice if available. If the takedown notice is not available from the service provider, a the notice from the service provider regarding the takedown will suffice.
+Create an [issue](https://github.com/paulgb/BarbBlock/issues) with the domains and the lable `blacklist`. In the issue description, add a link to a DMCA takedown notice if available, or else a notice from your service provider that they have received a takedown request.
