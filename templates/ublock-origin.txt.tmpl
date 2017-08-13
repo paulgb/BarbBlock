@@ -1,0 +1,8 @@
+! Title: {{ name }}
+! Homepage: {{ page_url }}
+! {{ description }}
+{% for blockset in blacklist %}! ============== Site group {{loop.index}} =============={% for issue in blockset.issues %}
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/{{ issue }}{% endfor %}{% if blockset.takedown %}
+! Takedown URL: {{ blockset.takedown }}{% endif %}{% for domain in blockset.domains %}
+||{{ domain }}{% endfor %}
+{% endfor %}

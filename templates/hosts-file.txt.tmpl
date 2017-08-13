@@ -1,0 +1,12 @@
+# {{ name }}
+# Version: {{ version }}
+# Last Update: {{ last_update }}
+# Homepage: {{ page_url }}
+# Canonical URL for this file: {{ url_base }}/hosts-file.txt
+{% for blockset in blacklist %}
+# ============== Site group {{loop.index}} =============={% for issue in blockset.issues %}
+# GitHub Issue: https://github.com/paulgb/BarbBlock/issues/{{ issue }}{% endfor %}{% if blockset.takedown %}
+# Takedown URL: {{ blockset.takedown }}{% endif %}
+{% for domain in blockset.domains %}
+0.0.0.0     {{ domain }}{% endfor %}
+{% endfor %}

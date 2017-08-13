@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Version: {{ version }}
+! Title: {{ name }}
+! Last modified: {{ last_update }}
+! Expires: 1 days
+! Homepage: {{ page_url }}{% for blockset in blacklist %}
+! ============== Site group {{loop.index}} =============={% for issue in blockset.issues %}
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/{{ issue }}{% endfor %}{% if blockset.takedown %}
+! Takedown URL: {{ blockset.takedown }}{% endif %}{% for domain in blockset.domains %}
+||{{ domain }}^{% endfor %}{% endfor %}
