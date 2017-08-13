@@ -29,7 +29,7 @@ Install BarbBlock from the [Mozilla add-ons site](https://addons.mozilla.org/en-
 
 ### As a blacklist for another blocker
 
-Add `http://bblck.me/BarbBlock.txt` as a blacklist.
+Add `https://ssl.bblck.me/BarbBlock.txt` as a blacklist.
 
 ## Adding to the Blacklist
 
