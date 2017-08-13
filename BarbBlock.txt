@@ -1,7 +1,6 @@
 ! Title: BarbBlock
 ! Homepage: https://github.com/paulgb/BarbBlock
 ! Blocks requests to sites which have used legal threats to remove themselves from other blacklists.
-
 ||functionalclam.com
 ||abandonedclover.com
 ||abruptroad.com
