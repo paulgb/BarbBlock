@@ -27,10 +27,18 @@ Install BarbBlock from the [Chrome App Store](https://chrome.google.com/webstore
 
 Install BarbBlock from the [Mozilla add-ons site](https://addons.mozilla.org/en-us/firefox/addon/barbblock/).
 
-### As a blacklist for another blocker
+### Adblock Plus
 
-Add `https://ssl.bblck.me/BarbBlock.txt` as a blacklist.
+Use the link on the [install page](install.html).
 
-## Adding to the Blacklist
+### Ublock Origin
+
+Add this URL: `https://ssl.bblck.me/blacklists/ublock-origin.txt`
+
+### Hosts file
+
+Include this file: `https://ssl.bblck.me/blacklists/hosts-file.txt`
+
+## Contributing to the Blacklist
 
 Create an [issue](https://github.com/paulgb/BarbBlock/issues) with the domains and the label `blacklist`. In the issue description, add a link to a DMCA takedown notice if available, or else a notice from your service provider that they have received a takedown request.
