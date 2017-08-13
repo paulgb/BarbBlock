@@ -1,4 +1,9 @@
-[BarbBlock]
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: BarbBlock
+! Last modified: 20170813
+! Expires: 1 days
+! Homepage: https://ssl.bblck.me
 ||functionalclam.com^
 ||abandonedclover.com^
 ||abruptroad.com^
