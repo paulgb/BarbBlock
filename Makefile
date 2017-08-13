@@ -1,3 +1,4 @@
 
 package :
-	zip barbblock.zip -r extension
+	cd extension; zip barbblock.zip -r ./ -x *.git*
+	mv extension/barbblock.zip ./
