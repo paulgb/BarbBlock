@@ -1,9 +1,9 @@
 ---
 name: BarbBlock
-version: '1.1'
+version: '1.2'
 description: Blocks requests to sites which have used legal threats to remove themselves
   from other blacklists.
-last_update: '2017-08-13'
+last_update: '2017-08-14'
 url_base: https://ssl.bblck.me/blacklists
 page_url: https://ssl.bblck.me/
 blacklist:
@@ -153,3 +153,9 @@ blacklist:
   - wirecomic.com
   - xovq5nemr.com
   - zbwp6ghm.com
+- issues:
+  - 21
+  domains:
+  - btez8.xyz
+  - j93557g.com
+  - awzbijw.com
