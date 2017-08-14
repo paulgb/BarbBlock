@@ -27,17 +27,17 @@ Install BarbBlock from the [Chrome App Store](https://chrome.google.com/webstore
 
 Install BarbBlock from the [Mozilla add-ons site](https://addons.mozilla.org/en-us/firefox/addon/barbblock/).
 
-### Adblock Plus
+### Adblock Plus and Ublock Origin
 
-Use the link on the [install page](install.html).
-
-### Ublock Origin
-
-Add this URL: `https://ssl.bblck.me/blacklists/ublock-origin.txt`
+Use the links on the [install page](https://ssl.bblock.me/install).
 
 ### Hosts file
 
 Include this file: `https://ssl.bblck.me/blacklists/hosts-file.txt`
+
+### Other uses
+
+Build a blacklist for your own format with the [domain list](https://ssl.bblck.me/blacklists/domain-list.txt).
 
 ## Contributing to the Blacklist
 
