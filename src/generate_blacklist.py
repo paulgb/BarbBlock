@@ -2,6 +2,7 @@ import argparse
 import os
 import yaml
 
+
 import jinja2
 
 
@@ -10,6 +11,9 @@ def run_template_engine(blacklist_file, template_file, output_file):
 
     with open(blacklist_file) as bf:
         context = yaml.load(bf)
+    
+    context['domains'] = [d for blockset in context['blacklist']
+                          for d in blockset['domains']]
 
     result = jinja2.Environment(
         loader=jinja2.FileSystemLoader(template_path or './')

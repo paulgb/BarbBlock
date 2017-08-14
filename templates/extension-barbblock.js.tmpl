@@ -1,0 +1,10 @@
+
+var urls = [
+{% for domain in domains %}    '*://{{ domain }}/*'{% if not loop.last %},{% endif %}
+{% endfor %}];
+
+chrome.webRequest.onBeforeRequest.addListener(
+    (details) => ({cancel: true}),
+    {urls: urls},
+    ["blocking"]
+);

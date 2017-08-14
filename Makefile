@@ -1,10 +1,13 @@
 
-all : all_blacklists BarbBlock.txt
+all : all_blacklists BarbBlock.txt package
 
-blacklists/% : src/generate_blacklist.py blacklist.yaml templates/%.tmpl
+blacklists/%.txt : src/generate_blacklist.py blacklist.yaml templates/%.txt.tmpl
 	python $^ $@
 
-package :
+extension/% : src/generate_blacklist.py blacklist.yaml templates/extension-%.tmpl
+	python $^ $@
+
+package : extension/manifest.json extension/barbblock.js
 	cd extension; zip barbblock.zip -r ./ -x *.git*
 	mv extension/barbblock.zip ./
 
