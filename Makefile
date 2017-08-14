@@ -1,7 +1,7 @@
 
 all : all_blacklists BarbBlock.txt
 
-blacklists/% : src/generate_blacklist.py blacklist.json templates/%.tmpl
+blacklists/% : src/generate_blacklist.py blacklist.yaml templates/%.tmpl
 	python $^ $@
 
 package :

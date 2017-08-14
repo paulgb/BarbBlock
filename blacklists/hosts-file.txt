@@ -1,5 +1,5 @@
 # BarbBlock
-# Version: 1.0
+# Version: 1.1
 # Last Update: 2017-08-13
 # Homepage: https://ssl.bblck.me/
 # Canonical URL for this file: https://ssl.bblck.me/blacklists/hosts-file.txt
