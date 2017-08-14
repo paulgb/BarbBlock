@@ -149,3 +149,8 @@
 ||wirecomic.com^
 ||xovq5nemr.com^
 ||zbwp6ghm.com^
+! ============== Site group 3 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/21
+||btez8.xyz^
+||j93557g.com^
+||awzbijw.com^

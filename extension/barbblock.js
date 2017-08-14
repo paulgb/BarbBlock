@@ -138,7 +138,10 @@ var urls = [
     '*://wateryvan.com/*',
     '*://wirecomic.com/*',
     '*://xovq5nemr.com/*',
-    '*://zbwp6ghm.com/*'
+    '*://zbwp6ghm.com/*',
+    '*://btez8.xyz/*',
+    '*://j93557g.com/*',
+    '*://awzbijw.com/*'
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(

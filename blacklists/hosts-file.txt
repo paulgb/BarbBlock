@@ -151,3 +151,10 @@
 0.0.0.0     wirecomic.com
 0.0.0.0     xovq5nemr.com
 0.0.0.0     zbwp6ghm.com
+
+# ============== Site group 3 ==============
+# GitHub Issue: https://github.com/paulgb/BarbBlock/issues/21
+
+0.0.0.0     btez8.xyz
+0.0.0.0     j93557g.com
+0.0.0.0     awzbijw.com
