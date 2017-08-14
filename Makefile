@@ -1,5 +1,5 @@
 
-all : all_blacklists
+all : all_blacklists BarbBlock.txt
 
 blacklists/% : src/generate_blacklist.py blacklist.json templates/%.tmpl
 	python $^ $@
@@ -10,3 +10,5 @@ package :
 
 all_blacklists : blacklists/adblock-plus.txt blacklists/hosts-file.txt blacklists/ublock-origin.txt blacklists/domain-list.txt
 
+BarbBlock.txt : blacklists/ublock-origin.txt
+	cp $< $@
