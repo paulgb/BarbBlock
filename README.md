@@ -29,7 +29,7 @@ Install BarbBlock from the [Mozilla add-ons site](https://addons.mozilla.org/en-
 
 ### Adblock Plus and Ublock Origin
 
-Use the links on the [install page](https://ssl.bblock.me/install).
+Use the links on the [install page](https://ssl.bblck.me/install).
 
 ### Hosts file
 
