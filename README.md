@@ -15,7 +15,7 @@ The initial release of BarbBlock blocks the domain in question, `functionalclam.
 I intend to accomplish a few things with this project.
 
 1. By calling the bluff of DMCA takedown notices, I hope to show that the takedown filers know their takedowns are meritless and would not stand up in court.
-2. If the extension gains significant traction, it will provide a disincentive for companies to issue takedowns in the first place. As a Chrome extension, the number of users is more quantitatively verifiable than a bunch of users independently adding domains to their blacklist.
+2. If the extension gains significant traction, it will provide a disincentive for companies to issue takedowns in the first place. As a browser extension and centrally-hosted blacklist, the number of users is more quantitatively verifiable than a bunch of users independently adding domains to their blacklist.
 
 ## Installation
 
