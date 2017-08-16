@@ -194,5 +194,7 @@ blacklist:
   - xovq5nemr.com
   - zbwp6ghm.com
   - zlp6s.pw
-  - 
-  - 
+- issues:
+  - 22
+  domains:
+  - foamybox.com
