@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 1.2
 ! Title: BarbBlock
-! Redirect: https://ssl.bblck.me/blacklists/adblock-plus.txt
 ! Last modified: 2017-08-14
 ! Expires: 1 days
 ! Homepage: https://ssl.bblck.me/
