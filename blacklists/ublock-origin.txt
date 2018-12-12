@@ -190,3 +190,6 @@
 ! ============== Site group 3 ==============
 ! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/22
 ||foamybox.com^
+! ============== Site group 4 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/30
+||texturetrick.com^

@@ -180,7 +180,8 @@ var urls = [
     '*://xovq5nemr.com/*',
     '*://zbwp6ghm.com/*',
     '*://zlp6s.pw/*',
-    '*://foamybox.com/*'
+    '*://foamybox.com/*',
+    '*://texturetrick.com/*'
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(

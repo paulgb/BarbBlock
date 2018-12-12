@@ -198,3 +198,7 @@ blacklist:
   - 22
   domains:
   - foamybox.com
+- issues:
+  - 30
+  domains:
+  - texturetrick.com

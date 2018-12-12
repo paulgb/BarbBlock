@@ -197,3 +197,8 @@
 # GitHub Issue: https://github.com/paulgb/BarbBlock/issues/22
 
 0.0.0.0 foamybox.com
+
+# ============== Site group 4 ==============
+# GitHub Issue: https://github.com/paulgb/BarbBlock/issues/30
+
+0.0.0.0 texturetrick.com
