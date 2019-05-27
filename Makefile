@@ -12,8 +12,8 @@ extension/% : src/generate_blacklist.py blacklist.yaml templates/extension-%.tmp
 
 # Package the extension as a zip.
 package : extension/manifest.json extension/barbblock.js
-	cd extension; zip barbblock.zip -r ./ -x *.git*
-	mv extension/barbblock.zip ./
+	zip barbblock.zip -r ./extension/ -x *.git*
+	
 
 # Build all of the standalone files.
 all_blacklists : \

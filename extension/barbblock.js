@@ -383,7 +383,6 @@ var urls = [
     '*://agreeablestew.com/*',
     '*://ambiguousquilt.com/*',
     '*://archswimming.com/*',
-    '*://area51-ts.com/*',
     '*://ariseboundary.com/*',
     '*://automaticflock.com/*',
     '*://barbarousnerve.com/*',
