@@ -2,6 +2,8 @@
 
 ## Introduction
 
+### Note: BarbBlock has moved from bblck.me to GitHub pages. Please update URLs according to the ones below.
+
 **BarbBlock** is a content blocking list with standalone browser extensions for Chrome and Firefox. It blacklists sites which have used DMCA takedowns to force removal from other content blocking lists. Such takedowns are categorically invalid, but they can be effective at intimidating small open-source projects into compliance.
 
 BarbBlock was created in response to a troubling instance where a company [used the DMCA takedown process](https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3) to force a domain blacklist to remove its domain. In reaction to this, some people added the domain to their personal blacklists, even those who weren't blocking it before the takedown. This phenomenon is called the [Streisand Effect](https://en.wikipedia.org/wiki/Streisand_effect), and it (indirectly) gives BarbBlock its name. In essence, this extension exists to automate the Streisand effect.
@@ -33,7 +35,7 @@ Use the links on the [install page](https://paulgb.github.io/BarbBlock/install).
 
 ### Hosts file
 
-Include this file: `https://ssl.bblck.me/blacklists/hosts-file.txt`
+Include this file: `https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt`
 
 ### Other uses
 
