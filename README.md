@@ -29,7 +29,7 @@ Install BarbBlock from the [Mozilla add-ons site](https://addons.mozilla.org/en-
 
 ### Adblock Plus and Ublock Origin
 
-Use the links on the [install page](https://ssl.bblck.me/install).
+Use the links on the [install page](https://paulgb.github.io/BarbBlock/install).
 
 ### Hosts file
 
@@ -37,7 +37,7 @@ Include this file: `https://ssl.bblck.me/blacklists/hosts-file.txt`
 
 ### Other uses
 
-Build a blacklist for your own format with the [domain list](https://ssl.bblck.me/blacklists/domain-list.txt).
+Build a blacklist for your own format with the [domain list](https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt).
 
 ## Contributing to the Blacklist
 
