@@ -521,7 +521,6 @@
 ||slipperysack.com^
 ||smashsurprise.com^
 ||smilingwaves.com^
-||smilingwaves.com^
 ||snakesort.com^
 ||sombersea.com^
 ||sombersquirrel.com^
