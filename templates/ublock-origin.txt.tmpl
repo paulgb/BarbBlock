@@ -2,7 +2,7 @@
 ! Homepage: {{ page_url }}
 ! Redirect: {{ url_base }}/ublock-origin.txt
 ! {{ description }}
-{% for blockset in blacklist %}! ============== Site group {{loop.index}} =============={% for issue in blockset.issues %}
+{% for blockset in blocklist %}! ============== Site group {{loop.index}} =============={% for issue in blockset.issues %}
 ! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/{{ issue }}{% endfor %}{% if blockset.takedown %}
 ! Takedown URL: {{ blockset.takedown }}{% endif %}{% for domain in blockset.domains %}
 ||{{ domain }}^{% endfor %}
