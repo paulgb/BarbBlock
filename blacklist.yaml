@@ -2,7 +2,7 @@
 name: BarbBlock
 version: '1.5'
 description: Blocks requests to sites which have used legal threats to remove themselves
-  from other blacklists.
+  from other blocklists.
 last_update: '2019-05-26'
 url_base: https://ssl.bblck.me/blacklists
 page_url: https://ssl.bblck.me/
