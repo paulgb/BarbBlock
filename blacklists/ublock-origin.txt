@@ -1,6 +1,6 @@
 ! Title: BarbBlock
-! Homepage: https://ssl.bblck.me/
-! Redirect: https://ssl.bblck.me/blacklists/ublock-origin.txt
+! Homepage: https://paulgb.github.io/
+! Redirect: https://paulgb.github.io/BarbBlock/blocklists/ublock-origin.txt
 ! Blocks requests to sites which have used legal threats to remove themselves from other blacklists.
 ! ============== Site group 1 ==============
 ! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1

@@ -10,7 +10,7 @@ def run_template_engine(blacklist_file, template_file, output_file):
     template_path, template_file = os.path.split(template_file)
 
     with open(blacklist_file) as bf:
-        context = yaml.load(bf)
+        context = yaml.safe_load(bf)
     
     context['domains'] = [d for blockset in context['blacklist']
                           for d in blockset['domains']]
