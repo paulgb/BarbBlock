@@ -1,6 +1,6 @@
 # Install BarbBlock
 
-For Chrome and Firefox extensions, see the [main page](https://ssl.bblck.me/).
+For Chrome and Firefox extensions, see the [main page](https://paulgb.github.io/BarbBlock/).
 
 ## Ublock Origin
 

@@ -1,8 +1,8 @@
 # BarbBlock
 # Version: 1.5
 # Last Update: 2019-05-26
-# Homepage: https://paulgb.github.io/
-# Canonical URL for this file: https://paulgb.github.io/BarbBlock/blocklists/hosts-file.txt
+# Homepage: https://paulgb.github.io/BarbBlock/
+# Canonical URL for this file: https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 
 # ============== Site group 1 ==============
 # GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1

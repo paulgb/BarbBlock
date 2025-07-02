@@ -3,7 +3,7 @@
 ! Title: BarbBlock
 ! Last modified: 2019-05-26
 ! Expires: 1 days
-! Homepage: https://paulgb.github.io/
+! Homepage: https://paulgb.github.io/BarbBlock/
 ! ============== Site group 1 ==============
 ! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1
 ! Takedown URL: https://github.com/github/dmca/blob/master/2017/2017-08-02-LevenLabs.md

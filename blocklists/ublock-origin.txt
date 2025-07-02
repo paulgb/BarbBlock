@@ -1,9 +1,7 @@
-[Adblock Plus 2.0]
-! Version: 1.5
 ! Title: BarbBlock
-! Last modified: 2019-05-26
-! Expires: 1 days
-! Homepage: https://paulgb.github.io/
+! Homepage: https://paulgb.github.io/BarbBlock/
+! Redirect: https://paulgb.github.io/BarbBlock/blacklists/ublock-origin.txt
+! Blocks requests to sites which have used legal threats to remove themselves from other blacklists.
 ! ============== Site group 1 ==============
 ! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1
 ! Takedown URL: https://github.com/github/dmca/blob/master/2017/2017-08-02-LevenLabs.md
